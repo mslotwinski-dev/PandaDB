@@ -1,1 +1,1 @@
-<img src="public/readme_icon.png" />
+<img src="public/logo_full.png" />
